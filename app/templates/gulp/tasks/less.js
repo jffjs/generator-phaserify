@@ -1,5 +1,5 @@
 var gulp = require('gulp');
-var less = require('gulp-ruby-sass');
+var less = require('gulp-less');
 var sourcemaps = require('gulp-sourcemaps');
 var handleErrors = require('../util/handleErrors');
 var browserSync  = require('browser-sync');

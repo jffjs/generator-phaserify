@@ -5,4 +5,4 @@ gulp.task('copy', function() {
       .pipe(gulp.dest('./build'));
   gulp.src('./src/assets/fonts/*')
       .pipe(gulp.dest('./build/assets/fonts'));
-};
+});
