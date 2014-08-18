@@ -1,7 +1,6 @@
-# generator-phaserify [![Build Status](https://secure.travis-ci.org/jffjs/generator-phaserify.png?branch=master)](https://travis-ci.org/jffjs/generator-phaserify)
+# generator-phaserify
 
-> [Yeoman](http://yeoman.io) generator
-
+A [Yeoman](http://yeoman.io) generator for writing HTML5 games with the [Phaser](http://phaser.io/) game framework using [Gulp](http://gulpjs.com/) and [Browserify](http://browserify.org/). Based off [generator-phaser-coffee-gulp](https://github.com/dschwertfeger/generator-phaser-coffee-gulp).
 
 ## Getting Started
 
