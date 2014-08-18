@@ -4,10 +4,11 @@
   "description": "Yeoman generator",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "jffjs/generator-phaserify",
+  "repository": "https://github.com/jffjs/generator-phaserify.git",
+  "homepage": "https://github.com/jffjs/generator-phaserify",
+  "bugs": "https://github.com/jffjs/generator-phaserify/issues"
   "author": {
     "name": "Jeff Smith",
-    "email": "",
     "url": "https://github.com/jffjs"
   },
   "engines": {
@@ -20,7 +21,10 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "phaser",
+    "browserify",
+    "gulp"
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
